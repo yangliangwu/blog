@@ -1,19 +1,18 @@
 ---
 layout: page
-title: 关于我
+title: About Me
 navigation: true
 logo: 'assets/images/ghost.png'
 current: about
 ---
-
-# 杨亮午 Byron
+## 杨亮午 Byron
 
 * 手机：18575665571
 * Email：i@byron.hk
 * Github：https://github.com/yangliangwu
 * Blog: http://byron.hk
 
-## 职业技能
+### 职业技能
 
 * 精通HTML, CSS, JavaScript。
 * 熟悉JQuery, Bootstrap, font awesome等。
@@ -22,7 +21,7 @@ current: about
 * 会用Vue.js、Webpack构建前端应用，有使用Vue.js与Vue-router构建SPA的经验。
 * 熟练使用GIT版本控制器
 
-## 项目经历
+### 项目经历
 
 * MyTwitter: 基于VueJS + Webpack + Bootstrap的类推特社交网站
 
