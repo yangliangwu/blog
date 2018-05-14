@@ -7,8 +7,8 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Byron的博客'
+description: "记录自己编程道路上学到的点滴，然后温故而知新。"
 
 short_url: 'http://byron.hk/'
 google_analytics: UA-69281367-1
@@ -45,7 +45,7 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyller
+username: Byron
 repo: jasper
 branch: master
 relative_source: ../jasper/
