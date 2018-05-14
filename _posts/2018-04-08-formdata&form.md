@@ -2,7 +2,7 @@
 layout: post
 cover: false
 navigation: false
-title: Gettysburg Address
+title: 使用FormData和AJAX上传图片
 date: 1863-11-19 10:18:00
 tags: fiction
 subclass: 'post tag-fiction'
