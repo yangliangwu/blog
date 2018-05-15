@@ -2,9 +2,11 @@
 layout: page
 title: About Me
 navigation: true
+cover: 'assets/images/cover1.jpg'
 logo: 'assets/images/ghost.png'
 current: about
 ---
+
 ## 杨亮午 Byron
 
 * 手机：18575665571
