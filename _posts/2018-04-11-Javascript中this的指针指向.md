@@ -1,3 +1,16 @@
+---
+layout: post
+cover: 'assets/images/cover1.jpg'
+navigation: True
+title: Javascript中this的指针指向
+date: 2018-04-11
+tags: fiction
+subclass: 'post tag-fiction'
+logo: 'assets/images/ghost.png'
+author: 
+categories: 
+---
+
 # 一、什么是this指针？
 
 在`Javascript`中，`this`指针是指在创建函数时，由系统默认生成的两个隐式参数之一（另一个是`arguments`)。
